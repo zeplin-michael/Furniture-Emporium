@@ -1,0 +1,64 @@
+h1,
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(37, 37, 37, 0.838);
+  margin-bottom: 1px;
+  padding-bottom: 1px;
+}
+
+main {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #dbd9e2;
+}
+
+p {
+  margin-bottom: 10px;
+  color: #140a39;
+}
+
+article {
+  border: 0px;
+  border-radius: 20px;
+  color: #140a39;
+  background-color: #f5ffe0;
+  padding: 5px 15px 20px;
+  margin: 20px;
+  width: 400px;
+}
+
+article:hover {
+  background-color: #fff6ab;
+}
+
+button {
+  color: black;
+  background-color: #ccddff;
+  text-align: center;
+  margin: 1px;
+  padding: 10px;
+  width: 100%;
+  border-radius: 15px;
+  border: none;
+}
+
+button:hover {
+  color: white;
+  background-color: #455d8f;
+}
+
+.Price {
+  font-size: 25px;
+  margin: 1%;
+  font-weight: 650;
+  color: #6554ab;
+}
+
+.Old-Price {
+  font-size: 15px;
+  font-weight: 600;
+  font-style: oblique;
+  color: grey;
+}
